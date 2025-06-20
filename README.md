@@ -1,3 +1,13 @@
+# RESUMEN DEL REPOSITORIO
+
+------------
+
+En el siguiente repositorio encontrarás el laboratorio de un CRUD (Crear, Leer, Actualizar, Eliminar) implementado con Spring Boot. Este proyecto permite gestionar usuarios en una base de datos, incluyendo las operaciones de creación, actualización y eliminación.
+
+Adicionalmente, se incluye el archivo JSON de la colección de Postman, con las pruebas realizadas para cada una de las funcionalidades. 
+También encontrarás un video demostrativo de pruebas automatizadas realizadas con Selenium en una página web link = [Pruebas_Selenium](https://drive.google.com/file/d/1Q8hTU1hm6eWnkhwwvwQu3TItbeh-tLve/view?usp=drive_link "Pruebas_Selenium")
+
+
 #####  DOCUMENTACIÓN DE PRUEBAS EN POSTMAN
 
 - ###### Entidad probada: Usuario
@@ -5,8 +15,6 @@
 - ###### Responsable: Yair Cañate
 - ###### Herramienta: Postman
 
-En el siguiente repositorio encontrarás el laboratorio de un CRUD (Crear, Leer, Actualizar, Eliminar) implementado con Spring Boot. Este proyecto permite gestionar usuarios en una base de datos.
-Adicionalmente, se incluye el archivo JSON de la colección de Postman, con las pruebas realizadas para cada una de las funcionalidades.
 
 #### Resumen General
 Se realizaron pruebas funcionales al servicio REST que gestiona la entidad Usuario, validando operaciones de tipo CRUD:
