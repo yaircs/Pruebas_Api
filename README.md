@@ -75,8 +75,16 @@ Response esperado:
 
 #### Evidencias Postman
 A continuación se presentan capturas de pantalla que evidencian la ejecución exitosa de las pruebas realizadas mediante Postman:
+
+###### creacion de usuario
 ![image](https://github.com/user-attachments/assets/29e6d056-376a-435e-a24f-d30b19a40cb2)
 
+###### Listar Usuario
+![image](https://github.com/user-attachments/assets/ce50381d-5f06-4683-8d4c-cc0234d0c669)
+![image](https://github.com/user-attachments/assets/90787509-5174-4de5-a534-17802450f69e)
+
+###### Busqueda por prioridad
+![image](https://github.com/user-attachments/assets/82c2448e-f190-48e4-a735-5b0b73b7a1a5)
 
 
 #### Conclusiones
